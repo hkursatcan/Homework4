@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="gotob">GOTOB</string>
+    <string name="a">A</string>
+    <string name="anasayfa">ANASAYFA</string>
+    <string name="g_t_a"><![CDATA[GİT > A]]></string>
+    <string name="g_t_x"><![CDATA[GİT > X]]></string>
+</resources>
